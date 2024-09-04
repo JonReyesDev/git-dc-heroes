@@ -2,3 +2,4 @@
 
 1. JOKER
 2. THANOS
+3. Deadshot
