@@ -3,3 +3,4 @@
 1. JOKER
 2. THANOS
 3. Deadshot
+4. HARLEY
